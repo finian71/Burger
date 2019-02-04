@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/singha53/burger.git"
+    "url": "git+https://github.com/finian71/Burger.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/singha53/burger/issues"
+    "url": "https://github.com/finian71/burger/issues"
   },
-  "homepage": "https://github.com/singha53/burger#readme",
+  "homepage": "https://github.com/finian71/burger#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
